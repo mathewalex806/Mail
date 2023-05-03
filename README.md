@@ -32,4 +32,4 @@ This project fulfills the following requirements:
   * Pre-filling the `body` of the email with a line like `On Jan 1 2020, 12:00 AM foo@example.com wrote:` followed by the original text of the email.
 
   ## Topics
-Built with [`Python`](https://www.python.org/downloads/), [`Django`](https://www.djangoproject.com/), [`JavaScript`](https://www.javascript.com/), and HTML/CSS..## 
+Built with [`Python`](https://www.python.org/downloads/), [`Django`](https://www.djangoproject.com/), [`JavaScript`](https://www.javascript.com/), and HTML/CSS. 
