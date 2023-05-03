@@ -1,4 +1,4 @@
-# Mail
+# Mail - CS50w
 ## Specification
 
 This project fulfills the following requirements:
