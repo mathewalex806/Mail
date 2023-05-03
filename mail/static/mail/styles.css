@@ -1,0 +1,13 @@
+textarea {
+    min-height: 400px;
+}
+.tab {
+    display: inline-block;
+    margin-left: 90px;
+}
+.read{
+    background-color: #bdbbbb;
+}
+.unread{
+    background-color: #ede5e5;
+}
